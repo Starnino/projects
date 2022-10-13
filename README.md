@@ -1,10 +1,10 @@
 ## Sapienza-University
 Projects done during bachelor (**Engineering in Computer Science**) and master's degree (**AI and Robotics**) in Sapienza University of Rome.
 
-### Computer and Automation Engineering
+### BSc Computer and Automation Engineering
 - [Doctor Finder](https://github.com/Starnino/Doctor-Finder). **Bachelor's Degree Thesis**. Android application developed in Java.
 
-### Engineering in Artificial Intelligence and Robotics
+### MSc Engineering in Artificial Intelligence and Robotics
 - [Yoshi Corre Forever](https://github.com/Starnino/final-project-joseph-francesco). **Interactive Graphics**. An interacting webGL based game developed with Three.js and Javascript.
 - [Human CycleGAN](https://github.com/Starnino/vp_project). **Vision & Perception**. A CycleGAN Python implementation which transforms humans to other subjects.
 - [NLP Projects](https://github.com/Starnino/nlp_project). **Natural Language Processing**. Two semantic task on text sentences: Named Entity Recognition and Semantic Role Labeling. 
