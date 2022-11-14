@@ -7,7 +7,7 @@ Projects done during bachelor (**Engineering in Computer Science**) and master's
 ### MSc Engineering in Artificial Intelligence and Robotics
 - [Yoshi Corre Forever](https://github.com/Starnino/final-project-joseph-francesco). **Interactive Graphics**. An interacting webGL based game developed with Three.js and Javascript.
 - [Human CycleGAN](https://github.com/Starnino/vp_project). **Vision & Perception**. A CycleGAN Python implementation which transforms humans to other subjects.
-- [NLP Projects](https://github.com/Starnino/nlp_project). **Natural Language Processing**. Two semantic task on text sentences: Named Entity Recognition and Semantic Role Labeling. 
+- [NLP Tasks](https://github.com/Starnino/nlp_project). **Natural Language Processing**. Two semantic task on text sentences: Named Entity Recognition and Semantic Role Labeling. 
 - [Deep Complex Networks](https://github.com/Starnino/neural_networks_project). **Neural Networks**. Complex valued neural networks for complex inputs.
 - [Social Interaction with Pepper Robot using Human Emotion Recognition](https://github.com/Starnino/hri_project). **Human Robot Interaction**. Example of social interaction with humanoid robots, developed with a simulator, based on human emotions.
 - [Reinforcement Learning in Regular Decision Processes](https://github.com/gracaliffo94/Reasoning-Agents-Project). **Reasoning Agents**. A method for solving the non-markovian decision process class of regular decision processes developed in Python.
